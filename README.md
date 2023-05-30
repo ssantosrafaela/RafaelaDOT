@@ -1,6 +1,6 @@
 ## Hi!
 
-<p>welcome to my 🌍, i'm a 18 year old in the last year of computer technician. </p>
+<p>welcome to my 🌍, i'm a 18 year old brazilian in the last year of computer technician. </p>
 
 
 <div style="display: inline_block" align="center"><br>
