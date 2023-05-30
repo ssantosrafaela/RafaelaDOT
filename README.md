@@ -27,3 +27,11 @@
 &nbsp;<div align="center">
 ![snake gif](https://github.com/ssantosrafaela/ssantosrafaela/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+##
+
+<div align="center">
+   <h2>Atividades:</h2>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ssantosrafaela&theme=dracula&hide_border=true&date_format=j%2Fn%5B%2FY%5D)](https://github.com/ssantosrafaela)
+ </div>
