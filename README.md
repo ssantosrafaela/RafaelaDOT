@@ -32,6 +32,15 @@
  </div>
 
 
+ <!--
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake.svg">
+    <img media="(prefers-color-scheme: dark)" src="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
+  </picture>
+<img media="(prefers-color-scheme: dark)" src="https://github.com/samuel-Fischer/samuel-Fischer/blob/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake">
+-->
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -46,6 +55,12 @@
     src="https://github.com/ssantosrafaela/ssantosrafaela/blob/output/github-contribution-grid-snake-dark.svg"
   />
 </picture>
+</div>
+
+<!--
+Link para deixar uma mensagem passando no perfil como se fosse u gif: https://readme-typing-svg.herokuapp.com/demo/
+-->
+
 
 ##
 
